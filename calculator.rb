@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "Dan"
+first_number = 420
